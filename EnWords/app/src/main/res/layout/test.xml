@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <com.jwstudio.enwords.home.view.PersonalItemView
+        android:id="@+id/piv_account"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:showBottomLine="true"
+        android:background="@color/white"
+        app:showLeftImg="@drawable/baseline_account_box_black_24"
+        app:showText="@string/personal_info"/>
+
+    <com.jwstudio.enwords.home.view.PersonalItemView
+        android:id="@+id/piv_plan"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:showBottomLine="true"
+        android:background="@color/white"
+        app:showLeftImg="@drawable/baseline_receipt_black_24"
+        app:showText="@string/personal_plan"/>
+
+    <com.jwstudio.enwords.home.view.PersonalItemView
+        android:id="@+id/piv_collect"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:showBottomLine="true"
+        android:background="@color/white"
+        app:showLeftImg="@drawable/baseline_bookmarks_black_18"
+        app:showText="@string/personal_collect"/>
+
+</LinearLayout>

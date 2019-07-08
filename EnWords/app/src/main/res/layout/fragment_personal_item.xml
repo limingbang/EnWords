@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="56dp"
+    android:layout_marginLeft="10dp"
+    android:layout_marginRight="10dp"
+    tools:context=".home.MainActivity">
+
+    <ImageView
+        android:id="@+id/item_img"
+        android:layout_width="20dp"
+        android:layout_height="20dp"
+        android:layout_centerVertical="true"
+        android:background="@drawable/settings" />
+
+    <TextView
+        android:id="@+id/item_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="10dp"
+        android:layout_toRightOf="@id/item_img"
+        android:gravity="center_vertical"
+        android:text="设置中心"
+        android:textColor="#050000"
+        android:textSize="17sp" />
+
+    <ImageView
+        android:id="@+id/item_bottom"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_below="@id/item_img"
+        android:layout_alignLeft="@id/item_text"
+        android:layout_marginTop="10dp"
+        android:background="#e9e5e5" />
+
+    <ImageView
+        android:id="@+id/item_right"
+        android:layout_width="20dp"
+        android:layout_height="20dp"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:background="@drawable/baseline_chevron_right_black_24" />
+</RelativeLayout>

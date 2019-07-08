@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">EnWords</string>
+    <string name="avatar_behavior" translatable="false">
+        com.jwstudio.enwords.home.view.AvatarBehavior</string>
+    <string name="personal_info">个人信息</string>
+    <string name="personal_plan">我的计划</string>
+    <string name="personal_collect">我的收藏</string>
+    <string name="personal_change_password">修改密码</string>
+    <string name="personal_change_phone">修改手机</string>
+    <string name="personal_setting">设置</string>
+    <string name="personal_version">版本</string>
+</resources>

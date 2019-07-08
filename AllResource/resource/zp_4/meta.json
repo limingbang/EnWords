@@ -1,0 +1,30 @@
+{
+  "topic_id": 8,
+  "word_level_id": 14,
+  "tag_id": 0,
+  "word": "abet",
+  "word_audio": "abet.mp3",
+  "word_variants": "abetment,abetted,abetting,abets",
+  "image_file": "1423913107602.jpg",
+  "accent": "/əˈbet/",
+  "mean_cn": "vt. 唆使，怂恿，支持",
+  "mean_en": "to help, encourage, or support someone in a criminal act",
+  "short_phrase": "abet her boyfriend and hold a gun",
+  "deformation_img": "20140915_12_07_11_597_v3.png",
+  "sentence": "It\u0027s fun to abet diet people take some desserts.",
+  "sentence_trans": "唆使正在节食的人吃甜食真是人生一大乐事。",
+  "sentence_audio": "sa_14_8_0_3_20150808150830.aac",
+  "cloze_data": {
+    "syllable": "a-bet",
+    "cloze": "a-b[e]t",
+    "options": [
+      "a|i|o|u"
+    ],
+    "tips": [
+      [
+        "b[e]tso",
+        "b[e]t"
+      ]
+    ]
+  }
+}

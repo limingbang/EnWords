@@ -1,0 +1,30 @@
+{
+  "topic_id": 4,
+  "word_level_id": 13,
+  "tag_id": 0,
+  "word": "abdomen",
+  "word_audio": "abdomen.mp3",
+  "word_variants": "abdominal,abdominally",
+  "image_file": "i_13_4_0_3_20150808150813.jpg",
+  "accent": "/ˈæbdəmən/",
+  "mean_cn": "n. 腹，腹部",
+  "mean_en": "the part of the body below the chest that contains the stomach and other organs",
+  "short_phrase": "a very large abdomen",
+  "deformation_img": "20140824_00_52_11_783_v3.png",
+  "sentence": "Eating too much can make your abdomen fat.",
+  "sentence_trans": "吃太多会让你的腹部变胖。",
+  "sentence_audio": "sa_13_4_0_3_20150808150813.aac",
+  "cloze_data": {
+    "syllable": "ab-domen",
+    "cloze": "ab-dom[en]",
+    "options": [
+      "in|on|un|an|e|i|a|o|u"
+    ],
+    "tips": [
+      [
+        "preabdom[en]",
+        "praeabdom[en]"
+      ]
+    ]
+  }
+}

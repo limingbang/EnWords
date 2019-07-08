@@ -1,0 +1,32 @@
+{
+  "topic_id": 9,
+  "word_level_id": 14,
+  "tag_id": 0,
+  "word": "abhor",
+  "word_audio": "abhor.mp3",
+  "word_variants": "abhorrer,abhorred,abhorring,abhors",
+  "image_file": "i_14_9_0_3_20150808150832.jpg",
+  "accent": "/əbˈhɔːr/",
+  "mean_cn": "v. 痛恨，憎恶",
+  "mean_en": "to dislike (someone or something) very much",
+  "word_etyma": "ab离开 + hor因害怕发抖 → abhor 憎恶",
+  "short_phrase": "She abhors cigarettes.",
+  "deformation_img": "20140829_21_21_46_760_v3.png",
+  "sentence": "Some women abhor cigarettes.",
+  "sentence_trans": "有些女人厌恶香烟。",
+  "sentence_phrase": "abhor cigarettes",
+  "sentence_audio": "sa_14_9_0_3_20150808150832.aac",
+  "cloze_data": {
+    "syllable": "ab-hor",
+    "cloze": "ab-h[or]",
+    "options": [
+      "ar|er|ir|ur|a"
+    ],
+    "tips": [
+      [
+        "boh[or]",
+        "Nah[or]"
+      ]
+    ]
+  }
+}

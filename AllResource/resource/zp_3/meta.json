@@ -1,0 +1,28 @@
+{
+  "topic_id": 6,
+  "word_level_id": 14,
+  "tag_id": 0,
+  "word": "aberrant",
+  "word_audio": "aberrant.mp3",
+  "word_variants": "aberrantly,aberrance",
+  "image_file": "20120206_02_57_19_51.jpg",
+  "accent": "/æˈberənt/",
+  "mean_cn": "n. 离开正路的人，反常的人；  adj. 偏离常规的，异常的，畸变的",
+  "mean_en": "different from the usual or natural type :unusual or abnormal",
+  "word_etyma": "ab离开+err漫游，犯错误+ant...的→离开[正确]走向错误→越轨的；异常的",
+  "short_phrase": "an aberrant smile",
+  "deformation_img": "20140824_16_32_16_235_v3.png",
+  "sentence": "John\u0027s smile was described as aberrant.",
+  "sentence_trans": "约翰的微笑被说成是有点反常。",
+  "sentence_audio": "sa_14_6_0_3_20150808150825.aac",
+  "cloze_data": {
+    "syllable": "aber-rant",
+    "cloze": "ab[er]rant",
+    "options": [
+      "ar|ir|or|ur|a"
+    ],
+    "tips": [
+      []
+    ]
+  }
+}
